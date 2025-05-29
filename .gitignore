@@ -21,6 +21,7 @@ Thumbs.db
 
 # Project specific
 problem_tracking.json
+configurations.py
 
 # Logs
 *.log

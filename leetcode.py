@@ -61,7 +61,7 @@ def opening_problem_links():
         if url:
             print(f"{name} ({difficulty}) from {problemCategory}")
             print(f"Opening URL: {url}\n")
-            # webbrowser.open(url)
+            webbrowser.open(url)
         else:
             print(f"No URL found for problem: {name} ({difficulty}) from {problemCategory}\n")
 
