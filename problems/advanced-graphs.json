@@ -1,0 +1,47 @@
+{
+  "category": "Advanced Graphs",
+  "problems": [
+    {
+      "name": "Network Delay Time",
+      "leetcode_link": "https://leetcode.com/problems/network-delay-time/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Reconstruct Itinerary",
+      "leetcode_link": "https://leetcode.com/problems/reconstruct-itinerary/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Min Cost to Connect All Points",
+      "leetcode_link": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Swim in Rising Water",
+      "leetcode_link": "https://leetcode.com/problems/swim-in-rising-water/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Alien Dictionary",
+      "leetcode_link": "https://leetcode.com/problems/alien-dictionary/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Cheapest Flights Within K Stops",
+      "leetcode_link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "category": "Two Pointers",
+  "problems": [
+    {
+      "name": "Valid Palindrome",
+      "leetcode_link": "https://leetcode.com/problems/valid-palindrome/",
+      "difficulty": "Easy",
+      "solved": true, 
+      "neetcode": true
+    },
+    {
+      "name": "Two Sum II - Input Array Is Sorted",
+      "leetcode_link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": true
+    },
+        {
+      "name": "3Sum",
+      "leetcode_link": "https://leetcode.com/problems/3sum/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": true
+    },
+    {
+      "name": "Container With Most Water",
+      "leetcode_link": "https://leetcode.com/problems/container-with-most-water/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": true
+    }, 
+        {
+      "name": "Trapping Rain Water",
+      "leetcode_link": "https://leetcode.com/problems/trapping-rain-water/",
+      "difficulty": "Hard",
+      "solved": true, 
+      "neetcode": true
+    }
+  ]
+}

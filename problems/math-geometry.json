@@ -1,0 +1,61 @@
+{
+  "category": "Math & Geometry",
+  "problems": [
+    {
+      "name": "Rotate Image",
+      "leetcode_link": "https://leetcode.com/problems/rotate-image/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Spiral Matrix",
+      "leetcode_link": "https://leetcode.com/problems/spiral-matrix/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Set Matrix Zeroes",
+      "leetcode_link": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Happy Number",
+      "leetcode_link": "https://leetcode.com/problems/happy-number/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Plus One",
+      "leetcode_link": "https://leetcode.com/problems/plus-one/",
+      "difficulty": "Easy",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Pow(x, n)",
+      "leetcode_link": "https://leetcode.com/problems/powx-n/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Multiply Strings",
+      "leetcode_link": "https://leetcode.com/problems/multiply-strings/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Detect Squares",
+      "leetcode_link": "https://leetcode.com/problems/detect-squares/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    }
+  ]
+}

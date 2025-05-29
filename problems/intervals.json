@@ -1,0 +1,47 @@
+{
+  "category": "Intervals",
+  "problems": [
+    {
+      "name": "Insert Interval",
+      "leetcode_link": "https://leetcode.com/problems/insert-interval/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Merge Intervals",
+      "leetcode_link": "https://leetcode.com/problems/merge-intervals/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Non-overlapping Intervals",
+      "leetcode_link": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Meeting Rooms",
+      "leetcode_link": "https://neetcode.io/problems/meeting-schedule",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Meeting Rooms II",
+      "leetcode_link": "https://neetcode.io/problems/meeting-schedule-ii",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Minimum Interval to Include Each Query",
+      "leetcode_link": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "category": "Greedy",
+  "problems": [
+    {
+      "name": "Maximum Subarray",
+      "leetcode_link": "https://leetcode.com/problems/maximum-subarray/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Jump Game",
+      "leetcode_link": "https://leetcode.com/problems/jump-game/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Jump Game II",
+      "leetcode_link": "https://leetcode.com/problems/jump-game-ii/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Gas Station",
+      "leetcode_link": "https://leetcode.com/problems/gas-station/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Hand of Straights",
+      "leetcode_link": "https://leetcode.com/problems/hand-of-straights/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Merge Triplets to Form Target Triplet",
+      "leetcode_link": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Partition Labels",
+      "leetcode_link": "https://leetcode.com/problems/partition-labels/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Valid Parenthesis String",
+      "leetcode_link": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    }
+  ]
+}

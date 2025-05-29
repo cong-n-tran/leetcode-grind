@@ -1,0 +1,54 @@
+{
+  "category": "Heap & Priority Queue",
+  "problems": [
+    {
+      "name": "Kth Largest Element in a Stream",
+      "leetcode_link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Last Stone Weight",
+      "leetcode_link": "https://leetcode.com/problems/last-stone-weight/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "K Closest Points to Origin",
+      "leetcode_link": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Kth Largest Element in an Array",
+      "leetcode_link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Task Scheduler",
+      "leetcode_link": "https://leetcode.com/problems/task-scheduler/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Design Twitter",
+      "leetcode_link": "https://leetcode.com/problems/design-twitter/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Find Median from Data Stream",
+      "leetcode_link": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "difficulty": "Hard",
+      "solved": true,
+      "neetcode": true
+    }
+  ]
+}

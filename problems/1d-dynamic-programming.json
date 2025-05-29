@@ -1,0 +1,89 @@
+{
+  "category": "1-D Dynamic Programming",
+  "problems": [
+    {
+      "name": "Climbing Stairs",
+      "leetcode_link": "https://leetcode.com/problems/climbing-stairs/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Min Cost Climbing Stairs",
+      "leetcode_link": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "House Robber",
+      "leetcode_link": "https://leetcode.com/problems/house-robber/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "House Robber II",
+      "leetcode_link": "https://leetcode.com/problems/house-robber-ii/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Longest Palindromic Substring",
+      "leetcode_link": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Palindromic Substrings",
+      "leetcode_link": "https://leetcode.com/problems/palindromic-substrings/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Decode Ways",
+      "leetcode_link": "https://leetcode.com/problems/decode-ways/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Coin Change",
+      "leetcode_link": "https://leetcode.com/problems/coin-change/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Maximum Product Subarray",
+      "leetcode_link": "https://leetcode.com/problems/maximum-product-subarray/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Word Break",
+      "leetcode_link": "https://leetcode.com/problems/word-break/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Longest Increasing Subsequence",
+      "leetcode_link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Partition Equal Subset Sum",
+      "leetcode_link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    }
+  ]
+}

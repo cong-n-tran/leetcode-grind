@@ -1,0 +1,68 @@
+{
+  "category": "Arrays & Hashing",
+  "problems": [
+    {
+      "name": "Contains Duplicate",
+      "leetcode_link": "https://leetcode.com/problems/contains-duplicate/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Valid Anagram",
+      "leetcode_link": "https://leetcode.com/problems/valid-anagram/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Two Sum",
+      "leetcode_link": "https://leetcode.com/problems/two-sum/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Group Anagrams",
+      "leetcode_link": "https://leetcode.com/problems/group-anagrams/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Top K Frequent Elements",
+      "leetcode_link": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+        {
+      "name": "Encode and Decode Strings",
+      "leetcode_link": "https://leetcode.com/problems/encode-and-decode-strings/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Product of Array Except Self",
+      "leetcode_link": "https://leetcode.com/problems/product-of-array-except-self/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Valid Sudoku",
+      "leetcode_link": "https://leetcode.com/problems/valid-sudoku/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Longest Consecutive Sequence",
+      "leetcode_link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "category": "Linked List",
+  "problems": [
+    {
+      "name": "Reverse Linked List",
+      "leetcode_link": "https://leetcode.com/problems/reverse-linked-list/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "leetcode_link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Linked List Cycle",
+      "leetcode_link": "https://leetcode.com/problems/linked-list-cycle/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Reorder List",
+      "leetcode_link": "https://leetcode.com/problems/reorder-list/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Remove Nth Node From End of List",
+      "leetcode_link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Copy List with Random Pointer",
+      "leetcode_link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Add Two Numbers",
+      "leetcode_link": "https://leetcode.com/problems/add-two-numbers/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Find the Duplicate Number",
+      "leetcode_link": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "LRU Cache",
+      "leetcode_link": "https://leetcode.com/problems/lru-cache/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Merge k Sorted Lists",
+      "leetcode_link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "difficulty": "Hard",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Reverse Nodes in k-Group",
+      "leetcode_link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    }
+  ]
+}

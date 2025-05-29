@@ -1,0 +1,96 @@
+{
+  "category": "Graphs",
+  "problems": [
+    {
+      "name": "Number of Islands",
+      "leetcode_link": "https://leetcode.com/problems/number-of-islands/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Max Area of Island",
+      "leetcode_link": "https://leetcode.com/problems/max-area-of-island/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Clone Graph",
+      "leetcode_link": "https://leetcode.com/problems/clone-graph/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Walls and Gates",
+      "leetcode_link": "https://neetcode.io/problems/islands-and-treasure",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Rotting Oranges",
+      "leetcode_link": "https://leetcode.com/problems/rotting-oranges/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Pacific Atlantic Water Flow",
+      "leetcode_link": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Surrounded Regions",
+      "leetcode_link": "https://leetcode.com/problems/surrounded-regions/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Course Schedule",
+      "leetcode_link": "https://leetcode.com/problems/course-schedule/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Course Schedule II",
+      "leetcode_link": "https://leetcode.com/problems/course-schedule-ii/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+        {
+      "name": "Graph Valid Tree",
+      "leetcode_link": "https://leetcode.com/problems/graph-valid-tree/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Number of Connected Components in an Undirected Graph",
+      "leetcode_link": "https://neetcode.io/problems/count-connected-components",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+{
+      "name": "Redundant Connection",
+      "leetcode_link": "https://leetcode.com/problems/redundant-connection/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Word Ladder",
+      "leetcode_link": "https://leetcode.com/problems/word-ladder/",
+      "difficulty": "Hard",
+      "solved": true,
+      "neetcode": true
+    }
+  ]
+}

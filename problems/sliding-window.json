@@ -1,0 +1,55 @@
+{
+  "category": "Sliding Window",
+  "problems": [
+    {
+      "name": "Best Time to Buy and Sell Stock",
+      "leetcode_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "difficulty": "Easy",
+      "solved": true,
+      "needcode": true
+    },
+    {
+      "name": "Longest Substring Without Repeating Characters",
+      "leetcode_link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "difficulty": "Medium",
+      "solved": true,
+       "neetcode": true
+    },
+    {
+      "name": "Longest Repeating Character Replacement",
+      "leetcode_link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": true
+    },
+    {
+      "name": "Permutation in String",
+      "leetcode_link": "https://leetcode.com/problems/permutation-in-string/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": true
+    },
+    {
+      "name": "Minimum Window Substring",
+      "leetcode_link": "https://leetcode.com/problems/minimum-window-substring/",
+      "difficulty": "Hard",
+      "solved": true, 
+      "neetcode": true
+    }, 
+    {
+      "name": "Sliding Window Maximum",
+      "leetcode_link": "https://leetcode.com/problems/sliding-window-maximum/",
+      "difficulty": "Hard",
+      "solved": true, 
+      "neetcode": true
+    }, 
+    {
+      "name": "Minimum Size Subarray Sum",
+      "leetcode_link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "difficulty": "Medium",
+      "neetcode_curated": false,
+      "solved": true, 
+      "neetcode": false
+    }
+  ]
+}

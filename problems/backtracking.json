@@ -1,0 +1,68 @@
+{
+  "category": "Backtracking",
+  "problems": [
+    {
+      "name": "Subsets",
+      "leetcode_link": "https://leetcode.com/problems/subsets/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Combination Sum",
+      "leetcode_link": "https://leetcode.com/problems/combination-sum/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+        {
+      "name": "Combination Sum II",
+      "leetcode_link": "https://leetcode.com/problems/combination-sum-ii/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Permutations",
+      "leetcode_link": "https://leetcode.com/problems/permutations/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Subsets II",
+      "leetcode_link": "https://leetcode.com/problems/subsets-ii/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Word Search",
+      "leetcode_link": "https://leetcode.com/problems/word-search/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Palindrome Partitioning",
+      "leetcode_link": "https://leetcode.com/problems/palindrome-partitioning/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Letter Combinations of a Phone Number",
+      "leetcode_link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "N-Queens",
+      "leetcode_link": "https://leetcode.com/problems/n-queens/",
+      "difficulty": "Hard",
+      "solved": true,
+      "neetcode": true
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "category": "Bit Manipulation",
+  "problems": [
+    {
+      "name": "Single Number",
+      "leetcode_link": "https://leetcode.com/problems/single-number/",
+      "difficulty": "Easy",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Number of 1 Bits",
+      "leetcode_link": "https://leetcode.com/problems/number-of-1-bits/",
+      "difficulty": "Easy",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Counting Bits",
+      "leetcode_link": "https://leetcode.com/problems/counting-bits/",
+      "difficulty": "Easy",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Reverse Bits",
+      "leetcode_link": "https://leetcode.com/problems/reverse-bits/",
+      "difficulty": "Easy",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Missing Number",
+      "leetcode_link": "https://leetcode.com/problems/missing-number/",
+      "difficulty": "Easy",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Sum of Two Integers",
+      "leetcode_link": "https://leetcode.com/problems/sum-of-two-integers/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Reverse Integer",
+      "leetcode_link": "https://leetcode.com/problems/reverse-integer/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    }
+  ]
+}

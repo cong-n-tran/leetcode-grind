@@ -1,0 +1,82 @@
+{
+  "category": "2-D Dynamic Programming",
+  "problems": [
+    {
+      "name": "Unique Paths",
+      "leetcode_link": "https://leetcode.com/problems/unique-paths/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Longest Common Subsequence",
+      "leetcode_link": "https://leetcode.com/problems/longest-common-subsequence/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Best Time to Buy and Sell Stock with Cooldown",
+      "leetcode_link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Coin Change 2",
+      "leetcode_link": "https://leetcode.com/problems/coin-change-2/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Target Sum",
+      "leetcode_link": "https://leetcode.com/problems/target-sum/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Interleaving String",
+      "leetcode_link": "https://leetcode.com/problems/interleaving-string/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Longest Increasing Path in a Matrix",
+      "leetcode_link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
+      "difficulty": "Hard",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Distinct Subsequences",
+      "leetcode_link": "https://leetcode.com/problems/distinct-subsequences/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Edit Distance",
+      "leetcode_link": "https://leetcode.com/problems/edit-distance/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Burst Balloons",
+      "leetcode_link": "https://leetcode.com/problems/burst-balloons/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    },
+    {
+      "name": "Regular Expression Matching",
+      "leetcode_link": "https://leetcode.com/problems/regular-expression-matching/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": true
+    }
+  ]
+}

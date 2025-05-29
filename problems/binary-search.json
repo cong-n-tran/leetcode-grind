@@ -1,0 +1,54 @@
+{
+  "category": "Binary Search",
+  "problems": [
+    {
+      "name": "Binary Search",
+      "leetcode_link": "https://leetcode.com/problems/binary-search/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Search a 2D Matrix",
+      "leetcode_link": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Koko Eating Bananas",
+      "leetcode_link": "https://leetcode.com/problems/koko-eating-bananas/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Find Minimum in Rotated Sorted Array",
+      "leetcode_link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Search in Rotated Sorted Array",
+      "leetcode_link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Time Based Key-Value Store",
+      "leetcode_link": "https://leetcode.com/problems/time-based-key-value-store/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    },
+    {
+      "name": "Median of Two Sorted Arrays",
+      "leetcode_link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "difficulty": "Hard",
+      "solved": true,
+      "neetcode": true
+    }
+  ]
+}
