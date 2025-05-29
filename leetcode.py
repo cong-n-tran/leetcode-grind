@@ -2,35 +2,7 @@ import json
 import random
 from glob import glob
 import webbrowser
-
-# all the categories of problems
-CATEGORIES = [
-    "Arrays & Hashing", 
-    "Two Pointers",
-    "Sliding Window",
-    "Stack",
-    "Binary Search",
-    "Linked List",
-    "Trees",
-    "Binary Search",
-    "Heap & Priority Queue",
-    "Graphs",
-    "Backtracking",
-    "1-D Dynamic Programming", 
-    "2-D Dynamic Programming", 
-    "Greedy",
-    "Bit Manipulation",
-    "Math & Geometry",
-    "Tries",
-]
-
-# specific configurations 
-CONFIG = {
-    "only_solved": True, 
-    "only_neetcode": True, 
-    "specific_problem": [], 
-    "number_of_problems": 10,
-}
+from configurations import CONFIG
 
 # load all the probelms from the JSON files
 def load_problems():
@@ -38,11 +10,18 @@ def load_problems():
     for file in glob("problems/*.json"):
         with open(file, "r") as f:
             data = json.load(f)
+            category = data.get("category", "Unknown Category")
+            specific_problem = CONFIG.get("specific_problem", [])
+
+            if len(specific_problem) > 0 and category not in specific_problem:
+                # skip the category if it is not in the specific problem list
+                continue
+        
             listOfProblems = data.get("problems", [])
             
             for p in listOfProblems:
                 # add the category to the each problem
-                p["category"] = data.get("category", "Unknown Category")
+                p["category"] = category
 
                 # get the solved and neetcode status
                 isSolved = p.get("solved", False)
@@ -80,7 +59,7 @@ def opening_problem_links():
         if url:
             print(f"{name} ({difficulty}) from {problemCategory}")
             print(f"Opening URL: {url}\n")
-            webbrowser.open(url)
+            # webbrowser.open(url)
         else:
             print(f"No URL found for problem: {name} ({difficulty}) from {problemCategory}\n")
 
