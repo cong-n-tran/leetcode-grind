@@ -70,7 +70,8 @@ def opening_problem_links():
 
 def update_problem_tracking(problems: list)-> None:
     tracking_filename = 'problem_tracking.json'
-    # Load existing data if file exists
+
+    # load existing data if file exists
     if os.path.exists(tracking_filename):
         with open(tracking_filename, 'r') as f:
             data = json.load(f)
@@ -79,21 +80,25 @@ def update_problem_tracking(problems: list)-> None:
 
     
     for problem in problems:
+        # extract problem details
         problem_name = problem.get("name", "Unknown Problem")
         category = problem.get("category", "Unknown Category")
         difficulty = problem.get("difficulty", "Unknown Difficulty")
         link = problem.get("leetcode_link", "")
+
         if not link:
             print(f"No link provided for problem: {problem_name}. Skipping tracking update.")
             continue
         
-
+        # get current time for tracking
         last_done = datetime.datetime.now().strftime("%B %d, %Y at %I:%M %p")
+    
+        # check if the problem already exists in the tracking data
         if problem_name in data:
             data[problem_name]['times_done'] += 1
             data[problem_name]['last_done'] = last_done
         else:
-            # Add new problem entry
+            # add new problem entry
             data[problem_name] = {
                 'category': category,
                 'difficulty': difficulty,
