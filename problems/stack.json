@@ -70,6 +70,20 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
+    },
+    {
+      "name": "Remove Outermost Parentheses",
+      "leetcode_link": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
+    },
+    {
+      "name": "Minimum Remove to Make Valid Parentheses",
+      "leetcode_link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
