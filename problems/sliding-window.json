@@ -50,6 +50,28 @@
       "neetcode_curated": false,
       "solved": true, 
       "neetcode": false
+    },
+    {
+      "name": "Longest Subarray of 1's After Deleting One Element",
+      "leetcode_link": "https://leetcode.com/problems/longest-subarray/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    },
+    {
+      "name": "Sum of Subarray Minimums",
+      "leetcode_link": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    },
+    {
+      "name": "Maximum Subarry",
+      "leetcode_link": "https://leetcode.com/problems/maximum-subarray/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
     }
+
   ]
 }

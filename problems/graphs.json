@@ -91,6 +91,27 @@
       "difficulty": "Hard",
       "solved": true,
       "neetcode": true
+    },
+    {
+      "name": "Minimum Height Trees",
+      "leetcode_link": "https://leetcode.com/problems/minimum-height-trees/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    },
+    {
+      "name": "Find Eventual Safe States",
+      "leetcode_link": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    },
+    {
+      "name": "Number of Provinces",
+      "leetcode_link": "https://leetcode.com/problems/number-of-provinces/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }

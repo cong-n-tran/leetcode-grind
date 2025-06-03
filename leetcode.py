@@ -42,6 +42,7 @@ def load_problems():
 
 def get_random_problems(number_of_problems=10): 
     problems = load_problems() # load all the problems
+    random.shuffle(problems) # shuffle the problems to get random ones
     number_of_problems = min(number_of_problems, len(problems)) # limit the number of problems to the available ones
     return random.sample(problems, number_of_problems) # randomly select the problems
     

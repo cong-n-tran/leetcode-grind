@@ -38,7 +38,7 @@
     },
         {
       "name": "Encode and Decode Strings",
-      "leetcode_link": "https://leetcode.com/problems/encode-and-decode-strings/",
+      "leetcode_link": "https://neetcode.io/problems/string-encode-and-decode?list=neetcode150",
       "difficulty": "Medium",
       "solved": true,
       "neetcode": true

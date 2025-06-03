@@ -22,7 +22,7 @@ CATEGORIES = [
 # specific configurations 
 CONFIG = {
     "only_solved": True, 
-    "only_neetcode": True, 
+    "only_neetcode": False, 
     "specific_problem": [], 
     "number_of_problems": 10,
 }
