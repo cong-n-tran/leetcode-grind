@@ -147,6 +147,13 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
+    }, 
+    {
+      "name": "Mininum insertions to make parentheses valid",
+      "leetcode_link": "https://leetcode.com/problems/minimum-insertions-to-make-the-string-valid/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
