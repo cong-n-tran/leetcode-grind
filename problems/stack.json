@@ -98,6 +98,41 @@
       "difficulty": "Easy",
       "solved": true,
       "neetcode": false
+    }, 
+    {
+      "name": "Implement Stack using Queues",
+      "leetcode_link": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "difficulty": "easy",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Implement Queue using Stacks",
+      "leetcode_link": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
+    },
+    {
+      "name": "Design a Stack with Increment Operation",
+      "leetcode_link": "https://leetcode.com/problems/design-a-stack-with-increment-operation/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Backspace String Compare",
+      "leetcode_link": "https://leetcode.com/problems/backspace-string-compare/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Decode String",
+      "leetcode_link": "https://leetcode.com/problems/decode-string/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
