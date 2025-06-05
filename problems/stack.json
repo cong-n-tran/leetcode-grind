@@ -65,6 +65,20 @@
       "neetcode": false
     }, 
     {
+      "name": "Next Greater Element III",
+      "leetcode_link": "https://leetcode.com/problems/next-greater-element-iii/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Next Permutation",
+      "leetcode_link": "https://leetcode.com/problems/next-permutation/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    },
+    {
       "name": "Score of Parentheses",
       "leetcode_link": "https://leetcode.com/problems/score-of-parentheses/",
       "difficulty": "Medium",
