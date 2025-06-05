@@ -126,10 +126,24 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
-    }, 
+    },
     {
       "name": "Decode String",
       "leetcode_link": "https://leetcode.com/problems/decode-string/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Remove All Adjacent Duplicates In String",
+      "leetcode_link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Remove All Adjacent Duplicates In String II",
+      "leetcode_link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/",
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
