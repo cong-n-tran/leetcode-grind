@@ -53,7 +53,7 @@
     },
     {
       "name": "Longest Subarray of 1's After Deleting One Element",
-      "leetcode_link": "https://leetcode.com/problems/longest-subarray/",
+      "leetcode_link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/",
       "difficulty": "Medium",
       "solved": true, 
       "neetcode": false
