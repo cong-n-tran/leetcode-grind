@@ -149,8 +149,8 @@
       "neetcode": false
     }, 
     {
-      "name": "Mininum insertions to make parentheses valid",
-      "leetcode_link": "https://leetcode.com/problems/minimum-insertions-to-make-the-string-valid/",
+      "name": "Minimum Insertions to Balance a Parentheses String",
+      "leetcode_link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
