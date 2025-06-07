@@ -61,7 +61,7 @@
       "name": "Edit Distance",
       "leetcode_link": "https://leetcode.com/problems/edit-distance/",
       "difficulty": "Hard",
-      "solved": false,
+      "solved": true,
       "neetcode": true
     },
     {
