@@ -40,7 +40,7 @@
       "name": "Interleaving String",
       "leetcode_link": "https://leetcode.com/problems/interleaving-string/",
       "difficulty": "Medium",
-      "solved": false,
+      "solved": true,
       "neetcode": true
     },
     {
