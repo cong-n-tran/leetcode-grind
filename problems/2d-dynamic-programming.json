@@ -77,6 +77,13 @@
       "difficulty": "Hard",
       "solved": false,
       "neetcode": true
+    }, 
+    {
+      "name": "Unique Paths II",
+      "leetcode_link": "https://leetcode.com/problems/unique-paths-ii/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
