@@ -84,6 +84,13 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": true
+    }, 
+    {
+      "name": "n-th Tribonacci Number",
+      "leetcode_link": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
