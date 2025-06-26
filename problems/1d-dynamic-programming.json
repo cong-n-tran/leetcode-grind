@@ -91,6 +91,12 @@
       "difficulty": "Easy",
       "solved": true,
       "neetcode": false
+    }, {
+      "name": "Perfect Squares",
+      "leetcode_link": "https://leetcode.com/problems/perfect-squares/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
