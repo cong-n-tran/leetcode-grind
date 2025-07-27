@@ -97,6 +97,12 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
+    }, {
+      "name": "Solving Questions With Brainpower",
+      "leetcode_link": "https://leetcode.com/problems/solving-questions-with-brainpower/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
