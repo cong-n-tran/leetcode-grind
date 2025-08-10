@@ -84,6 +84,13 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
+    }, 
+    {
+      "name": "minimum-path-sum",
+      "leetcode_link": "https://leetcode.com/problems/minimum-path-sum/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
