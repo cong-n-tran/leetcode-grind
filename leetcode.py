@@ -30,6 +30,8 @@ def load_problems():
                 isNeetcode = p.get("neetcode", False)
 
                 # skip the problem if it is not solved or not neetcode
+                if isNeetcode and not CONFIG["include_neetcode"]:
+                    continue
                 if CONFIG["only_solved"] and not isSolved:
                     continue
                 if CONFIG["only_neetcode"] and not isNeetcode:
