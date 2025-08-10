@@ -23,6 +23,7 @@ CATEGORIES = [
 CONFIG = {
     "only_solved": True, 
     "only_neetcode": False, 
-    "specific_problem": [], 
+    "include_neetcode": False, 
+    "specific_problem": ['1-D Dynamic Programming', '2-D Dynamic Programming'], 
     "number_of_problems": 10,
 }
