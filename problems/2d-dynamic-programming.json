@@ -86,8 +86,15 @@
       "neetcode": false
     }, 
     {
-      "name": "minimum-path-sum",
+      "name": "Minimum Path Sum",
       "leetcode_link": "https://leetcode.com/problems/minimum-path-sum/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Count Square Submatrices with All Ones",
+      "leetcode_link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
