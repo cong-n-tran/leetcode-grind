@@ -71,6 +71,13 @@
       "difficulty": "Medium",
       "solved": true, 
       "neetcode": false
+    }, 
+     {
+      "name": "Count Vowels Substrings of a String",
+      "leetcode_link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/",
+      "difficulty": "Easy",
+      "solved": true, 
+      "neetcode": false
     }
 
   ]
