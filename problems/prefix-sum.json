@@ -35,6 +35,13 @@
       "difficulty": "Medium",
       "solved": true, 
       "neetcode": false
+    }, 
+    {
+      "name": "Find Pivot Index",
+      "leetcode_link": "https://leetcode.com/problems/find-pivot-index/",
+      "difficulty": "Easy",
+      "solved": true, 
+      "neetcode": false
     }
   ]
 }
