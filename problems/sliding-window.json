@@ -78,7 +78,14 @@
       "difficulty": "Easy",
       "solved": true, 
       "neetcode": false
+    }, {
+      "name": "Subarray Product Less Than K",
+      "leetcode_link": "https://leetcode.com/problems/subarray-product-less-than-k/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
     }
+
 
   ]
 }

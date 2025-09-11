@@ -62,6 +62,13 @@
       "difficulty": "Medium",
       "solved": true, 
       "neetcode": false
+    }, 
+    {
+        "name": "Matrix Block Sum",
+        "leetcode_link": "https://leetcode.com/problems/matrix-block-sum/",
+        "difficulty": "Medium",
+        "solved": true, 
+        "neetcode": false
     }
   ]
 }
