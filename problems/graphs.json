@@ -112,6 +112,27 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
+    }, 
+    {
+      "name": "Accounts Merge",
+      "leetcode_link": "https://leetcode.com/problems/accounts-merge/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Find the Town Judge",
+      "leetcode_link": "https://leetcode.com/problems/find-the-town-judge/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "01 Matrix",
+      "leetcode_link": "https://leetcode.com/problems/01-matrix/",
+      "difficulty": "Hard",
+      "solved": false,
+      "neetcode": false
     }
   ]
 }
