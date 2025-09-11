@@ -42,6 +42,26 @@
       "difficulty": "Easy",
       "solved": true, 
       "neetcode": false
+    },
+    {
+        "name": "Contiguous Array",
+        "leetcode_link": "https://leetcode.com/problems/contiguous-array/",
+        "difficulty": "Medium",
+        "solved": true, 
+        "neetcode": false
+    }, 
+    {
+      "name": "Count Number of Nice Subarrays",
+      "leetcode_link": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    }, {
+      "name": "Binary Subarrays With Sum",
+      "leetcode_link": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
     }
   ]
 }
