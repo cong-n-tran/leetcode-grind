@@ -63,6 +63,20 @@
       "difficulty": "Hard",
       "solved": true,
       "neetcode": true
+    }, 
+    {
+      "name": "Generate Parentheses",
+      "leetcode_link": "https://leetcode.com/problems/generate-parentheses/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
+    }, 
+    {
+      "name": "Letter Tile Possibilities",
+      "leetcode_link": "https://leetcode.com/problems/letter-tile-possibilities/",
+      "difficulty": "Medium",
+      "solved": false,
+      "neetcode": true
     }
   ]
 }
