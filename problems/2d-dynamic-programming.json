@@ -93,11 +93,18 @@
       "neetcode": false
     }, 
     {
+      "name": "Maximal Square",
+      "leetcode_link": "https://leetcode.com/problems/maximal-square/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
+    },{
       "name": "Count Square Submatrices with All Ones",
       "leetcode_link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
       "difficulty": "Medium",
       "solved": true,
       "neetcode": false
     }
+    
   ]
 }

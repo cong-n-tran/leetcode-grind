@@ -1,0 +1,74 @@
+{
+  "category": "Prefix Sum",
+  "problems": [
+    {
+      "name": "Range Sum Query - Immutable",
+      "leetcode_link": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "difficulty": "Easy",
+      "solved": true, 
+      "neetcode": false
+    },
+    {
+      "name": "Subarray Sum Equals K",
+      "leetcode_link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    },
+    {
+      "name": "Continuous Subarray Sum",
+      "leetcode_link": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    }, 
+    {
+      "name": "Path Sum III",
+      "leetcode_link": "https://leetcode.com/problems/path-sum-iii/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    }, 
+    {
+      "name": "Range Sum Query 2D - Immutable",
+      "leetcode_link": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    }, 
+    {
+      "name": "Find Pivot Index",
+      "leetcode_link": "https://leetcode.com/problems/find-pivot-index/",
+      "difficulty": "Easy",
+      "solved": true, 
+      "neetcode": false
+    },
+    {
+        "name": "Contiguous Array",
+        "leetcode_link": "https://leetcode.com/problems/contiguous-array/",
+        "difficulty": "Medium",
+        "solved": true, 
+        "neetcode": false
+    }, 
+    {
+      "name": "Count Number of Nice Subarrays",
+      "leetcode_link": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    }, {
+      "name": "Binary Subarrays With Sum",
+      "leetcode_link": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "difficulty": "Medium",
+      "solved": true, 
+      "neetcode": false
+    }, 
+    {
+        "name": "Matrix Block Sum",
+        "leetcode_link": "https://leetcode.com/problems/matrix-block-sum/",
+        "difficulty": "Medium",
+        "solved": true, 
+        "neetcode": false
+    }
+  ]
+}
