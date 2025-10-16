@@ -5,14 +5,14 @@
       "name": "Maximum Subarray",
       "leetcode_link": "https://leetcode.com/problems/maximum-subarray/",
       "difficulty": "Medium",
-      "solved": false,
+      "solved": true,
       "neetcode": true
     },
     {
       "name": "Jump Game",
       "leetcode_link": "https://leetcode.com/problems/jump-game/",
       "difficulty": "Medium",
-      "solved": false,
+      "solved": true,
       "neetcode": true
     },
     {
