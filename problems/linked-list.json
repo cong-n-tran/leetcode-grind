@@ -77,6 +77,27 @@
       "difficulty": "Hard",
       "solved": false,
       "neetcode": true
+    }, 
+    {
+      "name": "Remove Duplicates from Sorted List",
+      "leetcode_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
+    }, 
+    {
+      "name": "Remove Duplicates from Sorted List II",
+      "leetcode_link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+      "difficulty": "Easy",
+      "solved": true,
+      "neetcode": false
+    },
+    {
+      "name": "Remove Duplicates from Unsorted List",
+      "leetcode_link": "https://leetcode.com/problems/remove-duplicates-from-unsorted-list/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
