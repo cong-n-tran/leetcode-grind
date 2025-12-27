@@ -5,7 +5,7 @@
       "name": "Implement Trie (Prefix Tree)",
       "leetcode_link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
       "difficulty": "Medium",
-      "solved": false,
+      "solved": true,
       "neetcode": true
     },
     {
