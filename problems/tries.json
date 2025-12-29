@@ -21,6 +21,13 @@
       "difficulty": "Hard",
       "solved": false,
       "neetcode": true
+    },
+    {
+      "name": "Number of Matching Subsequences",
+      "leetcode_link": "https://leetcode.com/problems/number-of-matching-subsequences/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": false
     }
   ]
 }
