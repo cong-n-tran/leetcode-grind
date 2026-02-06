@@ -40,8 +40,8 @@
       "name": "Minimum Interval to Include Each Query",
       "leetcode_link": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
       "difficulty": "Hard",
-      "solved": false,
-      "neetcode": true
+      "solved": true,
+      "neetcode": false
     }
   ]
 }

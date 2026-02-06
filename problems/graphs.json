@@ -131,14 +131,14 @@
       "name": "01 Matrix",
       "leetcode_link": "https://leetcode.com/problems/01-matrix/",
       "difficulty": "Hard",
-      "solved": false,
+      "solved": true,
       "neetcode": false
     }, 
     {
       "name": "Restore the Array From Adjacent Pairs",
       "leetcode_link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/",
       "difficulty": "Medium",
-      "solved": false,
+      "solved": true,
       "neetcode": false
     }
   ]

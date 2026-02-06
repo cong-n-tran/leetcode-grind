@@ -75,8 +75,15 @@
       "name": "Letter Tile Possibilities",
       "leetcode_link": "https://leetcode.com/problems/letter-tile-possibilities/",
       "difficulty": "Medium",
-      "solved": false,
-      "neetcode": true
-    }
+      "solved": true,
+      "neetcode": false
+    },
+      {
+        "name": "Sudoku Solver",
+        "leetcode_link": "https://leetcode.com/problems/sudoku-solver/",
+        "difficulty": "Hard",
+        "solved": true,
+        "neetcode": false
+      }
   ]
 }
