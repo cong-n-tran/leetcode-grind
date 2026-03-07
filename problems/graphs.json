@@ -130,9 +130,16 @@
     {
       "name": "01 Matrix",
       "leetcode_link": "https://leetcode.com/problems/01-matrix/",
-      "difficulty": "Hard",
-      "solved": false,
+      "difficulty": "Medium",
+      "solved": true,
       "neetcode": false
-    }
+    }, 
+      {
+        "name": "Most Profitable Path in a Tree",
+        "leetcode_link": "https://leetcode.com/problems/most-profitable-path-in-a-tree/",
+        "difficulty": "Medium",
+        "solved": true,
+        "neetcode": false
+      }
   ]
 }
