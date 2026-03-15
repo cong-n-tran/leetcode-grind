@@ -63,6 +63,13 @@
       "difficulty": "Medium",
       "solved": true,
       "neetcode": true
+    }, 
+    {
+      "name": "Minimum Swaps to Sort by Digit Sum",
+      "leetcode_link": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+      "difficulty": "Medium",
+      "solved": true,
+      "neetcode": true
     }
   ]
 }
