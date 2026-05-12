@@ -19,7 +19,7 @@
       "name": "Set Matrix Zeroes",
       "leetcode_link": "https://leetcode.com/problems/set-matrix-zeroes/",
       "difficulty": "Medium",
-      "solved": false,
+      "solved": true,
       "neetcode": true
     },
     {
